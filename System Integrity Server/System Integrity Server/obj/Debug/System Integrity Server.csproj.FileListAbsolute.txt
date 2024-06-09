@@ -1,0 +1,8 @@
+E:\C Sharp Projects\System Integrity\System Integrity Server\System Integrity Server\bin\Debug\System Integrity Server.exe.config
+E:\C Sharp Projects\System Integrity\System Integrity Server\System Integrity Server\bin\Debug\System Integrity Server.exe
+E:\C Sharp Projects\System Integrity\System Integrity Server\System Integrity Server\bin\Debug\System Integrity Server.pdb
+E:\C Sharp Projects\System Integrity\System Integrity Server\System Integrity Server\obj\Debug\System Integrity Server.csproj.AssemblyReference.cache
+E:\C Sharp Projects\System Integrity\System Integrity Server\System Integrity Server\obj\Debug\System Integrity Server.csproj.SuggestedBindingRedirects.cache
+E:\C Sharp Projects\System Integrity\System Integrity Server\System Integrity Server\obj\Debug\System Integrity Server.csproj.CoreCompileInputs.cache
+E:\C Sharp Projects\System Integrity\System Integrity Server\System Integrity Server\obj\Debug\System Integrity Server.exe
+E:\C Sharp Projects\System Integrity\System Integrity Server\System Integrity Server\obj\Debug\System Integrity Server.pdb

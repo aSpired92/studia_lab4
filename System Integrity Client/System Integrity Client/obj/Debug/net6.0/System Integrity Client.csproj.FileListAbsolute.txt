@@ -1,0 +1,15 @@
+E:\C Sharp Projects\System Integrity\System Integrity Client\System Integrity Client\bin\Debug\net6.0\System Integrity Client.exe
+E:\C Sharp Projects\System Integrity\System Integrity Client\System Integrity Client\bin\Debug\net6.0\System Integrity Client.deps.json
+E:\C Sharp Projects\System Integrity\System Integrity Client\System Integrity Client\bin\Debug\net6.0\System Integrity Client.runtimeconfig.json
+E:\C Sharp Projects\System Integrity\System Integrity Client\System Integrity Client\bin\Debug\net6.0\System Integrity Client.dll
+E:\C Sharp Projects\System Integrity\System Integrity Client\System Integrity Client\bin\Debug\net6.0\System Integrity Client.pdb
+E:\C Sharp Projects\System Integrity\System Integrity Client\System Integrity Client\obj\Debug\net6.0\System Integrity Client.csproj.AssemblyReference.cache
+E:\C Sharp Projects\System Integrity\System Integrity Client\System Integrity Client\obj\Debug\net6.0\System Integrity Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Projects\System Integrity\System Integrity Client\System Integrity Client\obj\Debug\net6.0\System Integrity Client.AssemblyInfoInputs.cache
+E:\C Sharp Projects\System Integrity\System Integrity Client\System Integrity Client\obj\Debug\net6.0\System Integrity Client.AssemblyInfo.cs
+E:\C Sharp Projects\System Integrity\System Integrity Client\System Integrity Client\obj\Debug\net6.0\System Integrity Client.csproj.CoreCompileInputs.cache
+E:\C Sharp Projects\System Integrity\System Integrity Client\System Integrity Client\obj\Debug\net6.0\System Integrity Client.dll
+E:\C Sharp Projects\System Integrity\System Integrity Client\System Integrity Client\obj\Debug\net6.0\refint\System Integrity Client.dll
+E:\C Sharp Projects\System Integrity\System Integrity Client\System Integrity Client\obj\Debug\net6.0\System Integrity Client.pdb
+E:\C Sharp Projects\System Integrity\System Integrity Client\System Integrity Client\obj\Debug\net6.0\System Integrity Client.genruntimeconfig.cache
+E:\C Sharp Projects\System Integrity\System Integrity Client\System Integrity Client\obj\Debug\net6.0\ref\System Integrity Client.dll
